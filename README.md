@@ -27,6 +27,4 @@ A modern, responsive website for AQUBE BARBERSHOP featuring:
 
 ## Contact
 For any inquiries, please contact:
-- Email: arun@aqubebarbershop.com
-- Phone: 802-363-4467
 - Instagram: [@aqube_barber22](https://www.instagram.com/aqube_barber22) 
